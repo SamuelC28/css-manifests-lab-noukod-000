@@ -2,4 +2,6 @@
 *= require bootstrap-addon
 *= require pages
 *= require hidden_styles
+*= require blogs
+*= require posts
 */
